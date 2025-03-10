@@ -7,7 +7,7 @@ let gitrogdev = {
     "Lua" + "Luau",
     "JavaScript" + "TypeScript" + "Node.js",
     "Python",
-    "HTML5" + CSS3",
+    "HTML5" + "CSS3",
     "SQL"
   ],
 
