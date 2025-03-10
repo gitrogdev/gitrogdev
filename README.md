@@ -1,7 +1,7 @@
 ```js
 let gitrogdev = {
   "desc": "Student and aspiring programmer based in Zagreb, Croatia.",
-  "name": "I work on personal projects, including game development, under my online pseudonym, Gitrog.",
+  "name": "On this account, I work on personal projects, including game development, under my online pseudonym, Gitrog.",
 
   "skills": [
     "Lua" + "Luau",
